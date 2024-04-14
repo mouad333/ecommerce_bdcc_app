@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c13a3309-b547-4aea-b049-140726a1cbc2" name="Changes" comment="first commit" />
+    <list default="true" id="c13a3309-b547-4aea-b049-140726a1cbc2" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Customers/Customers.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Customers/Customers.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Customers/Customers.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Customers/Customers.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Products/Products.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Products/Products.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Products/Products.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/UI/Products/Products.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/guards/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-app-angular/src/assets/silent-check-sso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/OrderServicesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/entities/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/entities/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/interceptors/FeignInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/repositories/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/repositories/ProductItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/restClient/InventoryRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/security/JwtAuthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/java/net/rhofir/orderservices/web/OrderRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-services/src/test/java/net/rhofir/orderservices/OrderServicesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-app-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecom-app-angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom_bdcc_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ecom_bdcc_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +57,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -39,29 +84,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/enset-app/ecom_bdcc_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "spring.configuration.checksum": "02c8974b9868749b419282bb50a28fb8",
+    "ts.external.directory.path": "D:\\enset-app\\ecom_bdcc_app\\ecom-app-angular\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="npm.Angular CLI Server (ecom-app-angular)">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\enset-app\ecom_bdcc_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\enset-app\ecom_bdcc_app\demo\src\main\java\net\rhofir" />
+      <recent name="D:\enset-app\ecom_bdcc_app\ecom-app-angular\src\app" />
+      <recent name="D:\enset-app\ecom_bdcc_app\ecom-app-angular\src\app\guards" />
+      <recent name="D:\enset-app\ecom_bdcc_app\src\main\java\net\rhofir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InventoryServiceApplication">
     <configuration name="Tests (ecom-app-angular)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/ecom-app-angular/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/ecom-app-angular/node_modules/@angular/cli" />
       <working-directory value="$PROJECT_DIR$/ecom-app-angular" />
       <node-interpreter value="project" />
       <envs />
@@ -70,9 +131,23 @@
     <configuration name="Angular Application (ecom-app-angular)" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.rhofir.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="inventory-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="net.rhofir.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.rhofir.orderservices.OrderServicesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708869144353</updated>
       <workItem from="1708869150438" duration="13580000" />
+      <workItem from="1712864403758" duration="27904000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1708890801989</created>
